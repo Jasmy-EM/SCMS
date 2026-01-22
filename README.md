@@ -59,6 +59,7 @@ npm run build
 User Personas
 Switch between personas using the dropdown in the header:
 
+
 Persona	Description
 Parent	Submit applications, track status, find providers
 Caseworker	Review applications, verify documents, manage cases
